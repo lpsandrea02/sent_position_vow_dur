@@ -1,0 +1,121 @@
+ID,Sentence,Target_word,Target_position,Target_start,Target_end,Sent_start,Sent_end,Group,Accent,Region
+0,I saw Mimi last week,Mimi,Medial,2.117952,2.200437,1.073251,3.143589,L2,NN,Hong Kong
+0,I saw Gigi last week,Gigi,Medial,4.822707,4.897436,3.795026,5.762679,L2,NN,Hong Kong
+0,I saw Fifi last week,Fifi,Medial,7.564777,7.642377,6.614465,8.499955,L2,NN,Hong Kong
+0,I saw Deedee last week,Deedee,Medial,10.329949,10.459655,9.463611,11.350118,L2,NN,Hong Kong
+0,I saw Cece last week,Cece,Medial,13.237265,13.348832,12.214551,14.249295,L2,NN,Hong Kong
+0,I saw Kiki last week,Kiki,Medial,15.975085,16.041578,14.980282,16.899042,L2,NN,Hong Kong
+0,Last week I saw Mimi,Mimi,Final,19.32393,19.488038,17.66477,19.488038,L2,NN,Hong Kong
+0,Last week I saw Gigi,Gigi,Final,21.895495,22.104559,20.120863,22.104559,L2,NN,Hong Kong
+0,Last week I saw Fifi,Fifi,Final,24.611517,24.795878,22.831316,24.795878,L2,NN,Hong Kong
+0,Last week I saw Deedee,Deedee,Final,27.329572,27.520806,25.536997,27.520806,L2,NN,Hong Kong
+0,Last week I saw Cece,Cece,Final,30.187945,30.411577,28.329509,30.411577,L2,NN,Hong Kong
+0,Last week I saw Kiki,Kiki,Final,32.941649,33.019939,31.13084,33.019939,L2,NN,Hong Kong
+1,I saw Mimi last week,Mimi,Medial,2.204569,2.328532,1.644855,3.050993,L1,NA,US
+1,I saw Gigi last week,Gigi,Medial,4.190546,4.281347,3.590092,5.007967,L1,NA,US
+1,I saw Fifi last week,Fifi,Medial,6.23583,6.320773,5.64946,7.051661,L1,NA,US
+1,I saw Deedee last week,Deedee,Medial,8.319789,8.425275,7.712831,9.120949,L1,NA,US
+1,I saw Cece last week,Cece,Medial,10.552411,10.618241,9.819793,11.304824,L1,NA,US
+1,I saw Kiki last week,Kiki,Medial,12.472189,12.534053,11.90013,13.249083,L1,NA,US
+1,Last week I saw Mimi,Mimi,Final,15.15657,15.312024,14.223564,15.312193,L1,NA,US
+1,Last week I saw Gigi,Gigi,Final,16.914339,17.099143,15.91585,17.099143,L1,NA,US
+1,Last week I saw Fifi,Fifi,Final,18.64948,18.806481,17.652771,18.806481,L1,NA,US
+1,Last week I saw Deedee,Deedee,Final,20.326723,20.536963,19.412835,20.536963,L1,NA,US
+1,Last week I saw Cece,Cece,Final,22.012177,22.187572,21.013155,22.187572,L1,NA,US
+1,Last week I saw Kiki,Kiki,Final,23.537861,23.72255,22.589547,23.72255,L1,NA,US
+2,I saw Mimi last week,Mimi,Medial,2.821943,2.928544,2.054018,3.683003,L1,UK,England
+2,I saw Gigi last week,Gigi,Medial,5.050753,5.161352,4.224282,5.903786,L1,UK,England
+2,I saw Fifi last week,Fifi,Medial,7.23678,7.319396,6.37528,8.003478,L1,UK,England
+2,I saw Deedee last week,Deedee,Medial,9.221763,9.347821,8.451366,10.013147,L1,UK,England
+2,I saw Cece last week,Cece,Medial,11.338284,11.44713,10.539336,12.113929,L1,UK,England
+2,I saw Kiki last week,Kiki,Medial,13.332642,13.429662,12.534661,14.12493,L1,UK,England
+2,Last week I saw Mimi,Mimi,Final,16.139554,16.322778,14.8356,16.322778,L1,UK,England
+2,Last week I saw Gigi,Gigi,Final,18.344681,18.502179,16.925729,18.502179,L1,UK,England
+2,Last week I saw Fifi,Fifi,Final,20.558967,20.758061,19.120849,20.758061,L1,UK,England
+2,Last week I saw Deedee,Deedee,Final,22.943775,23.124798,21.332796,23.124798,L1,UK,England
+2,Last week I saw Cece,Cece,Final,25.402746,25.592453,23.681832,25.592453,L1,UK,England
+2,Last week I saw Kiki,Kiki,Final,27.744943,27.840832,26.061395,27.840832,L1,UK,England
+3,I saw Mimi last week,Mimi,Medial,1.552892107,1.639299252,0.8439856689,2.593730354,L2,NN,Lebanon
+3,I saw Gigi last week,Gigi,Medial,3.514969306,3.596522005,2.749671033,4.34389477,L2,NN,Lebanon
+3,I saw Fifi last week,Fifi,Medial,5.5985311,5.682714531,4.768365597,6.399419586,L2,NN,Lebanon
+3,I saw Deedee last week,Deedee,Medial,7.644054862,7.741391955,6.796301398,8.579937856,L2,NN,Lebanon
+3,I saw Cece last week,Cece,Medial,9.814135492,9.900949656,8.916245481,10.72618926,L2,NN,Lebanon
+3,I saw Kiki last week,Kiki,Medial,11.8668098,11.93060505,11.05378201,12.73218918,L2,NN,Lebanon
+3,Last week I saw Mimi,Mimi,Final,14.42802159,14.58129069,13.22230812,14.58129069,L2,NN,Lebanon
+3,Last week I saw Gigi,Gigi,Final,16.54309137,16.74204911,15.05933869,16.74204911,L2,NN,Lebanon
+3,Last week I saw Fifi,Fifi,Final,18.65446761,18.78260989,17.21118092,18.78260989,L2,NN,Lebanon
+3,Last week I saw Deedee,Deedee,Final,20.68561218,20.87532486,19.26342991,20.87532486,L2,NN,Lebanon
+3,Last week I saw Cece,Cece,Final,22.8518145,23.01030626,21.4186443,23.01030626,L2,NN,Lebanon
+3,Last week I saw Kiki,Kiki,Final,24.88766013,25.01968867,23.48872568,25.01968867,L2,NN,Lebanon
+4,I saw Mimi last week,Mimi,Medial,2.100301,2.288809,1.125074,3.206709,L1,NA,US
+4,I saw Gigi last week,Gigi,Medial,5.171904,5.350306,4.224645,6.205629,L1,NA,US
+4,I saw Fifi last week,Fifi,Medial,8.353287,8.515633,7.387499,9.35361,L1,NA,US
+4,I saw Deedee last week,Deedee,Medial,11.445961,11.602896,10.572559,12.450461,L1,NA,US
+4,I saw Cece last week,Cece,Medial,14.511262,14.619001,13.671956,15.360502,L1,NA,US
+4,I saw Kiki last week,Kiki,Medial,17.494192,17.610507,16.691768,18.354164,L1,NA,US
+4,Last week I saw Mimi,Mimi,Final,21.831271,22.018745,20.523814,22.018745,L1,NA,US
+4,Last week I saw Gigi,Gigi,Final,24.647795,24.889497,23.205529,24.889497,L1,NA,US
+4,Last week I saw Fifi,Fifi,Final,27.969721,28.170495,26.439329,28.170495,L1,NA,US
+4,Last week I saw Deedee,Deedee,Final,31.086555,31.293082,29.591967,31.293082,L1,NA,US
+4,Last week I saw Cece,Cece,Final,34.384324,34.617348,32.856883,34.617348,L1,NA,US
+4,Last week I saw Kiki,Kiki,Final,37.328377,37.545741,35.825145,37.545741,L1,NA,US
+0,I saw Mimi last week,Mimi,Medial,2.14564,2.253221,1.048937,3.221192,L2,NN,Hong Kong
+0,I saw Gigi last week,Gigi,Medial,4.757728,4.889907,3.708346,5.771533,L2,NN,Hong Kong
+0,I saw Fifi last week,Fifi,Medial,7.447556,7.576153,6.378632,8.552713,L2,NN,Hong Kong
+0,I saw Deedee last week,Deedee,Medial,10.203867,10.387676,9.196238,11.342014,L2,NN,Hong Kong
+0,I saw Cece last week,Cece,Medial,13.288637,13.401303,12.192546,14.387452,L2,NN,Hong Kong
+0,I saw Kiki last week,Kiki,Medial,16.372057,16.466027,15.375356,17.452176,L2,NN,Hong Kong
+0,Last week I saw Mimi,Mimi,Final,20.340911,20.531393,18.545462,20.531393,L2,NN,Hong Kong
+0,Last week I saw Gigi,Gigi,Final,23.421674,23.608213,21.449592,23.608213,L2,NN,Hong Kong
+0,Last week I saw Fifi,Fifi,Final,26.600776,26.76586,24.650222,26.76586,L2,NN,Hong Kong
+0,Last week I saw Deedee,Deedee,Final,29.568398,29.777505,27.738098,29.777505,L2,NN,Hong Kong
+0,Last week I saw Cece,Cece,Final,32.600556,32.782954,30.711254,32.782954,L2,NN,Hong Kong
+0,Last week I saw Kiki,Kiki,Final,35.563533,35.640485,33.815162,35.640485,L2,NN,Hong Kong
+1,I saw Mimi last week,Mimi,Medial,25.026161,25.104338,24.552861,25.822697,L1,NA,US
+1,I saw Gigi last week,Gigi,Medial,26.888298,26.953334,26.280416,27.605529,L1,NA,US
+1,I saw Fifi last week,Fifi,Medial,28.698483,28.775417,28.136026,29.384662,L1,NA,US
+1,I saw Deedee last week,Deedee,Medial,30.44215,30.543357,29.955496,31.198235,L1,NA,US
+1,I saw Cece last week,Cece,Medial,32.34799,32.415407,31.757173,33.050296,L1,NA,US
+1,I saw Kiki last week,Kiki,Medial,34.224799,34.30094,33.668218,34.967839,L1,NA,US
+1,Last week I saw Mimi,Mimi,Final,36.41149,36.590167,35.461698,36.590167,L1,NA,US
+1,Last week I saw Gigi,Gigi,Final,38.038975,38.202898,37.10257,38.202898,L1,NA,US
+1,Last week I saw Fifi,Fifi,Final,39.682253,39.852418,38.641622,39.852418,L1,NA,US
+1,Last week I saw Deedee,Deedee,Final,41.252212,41.447704,40.255753,41.447704,L1,NA,US
+1,Last week I saw Cece,Cece,Final,43.02722,43.211842,41.937714,43.211842,L1,NA,US
+1,Last week I saw Kiki,Kiki,Final,44.572943,44.746697,43.60313,44.746697,L1,NA,US
+2,I saw Mimi last week,Mimi,Medial,1.93712,2.052635,1.202863,2.787605,L1,UK,England
+2,I saw Gigi last week,Gigi,Medial,4.033075,4.15986,3.122099,4.853326,L1,UK,England
+2,I saw Fifi last week,Fifi,Medial,6.06594,6.156098,5.192935,6.793736,L1,UK,England
+2,I saw Deedee last week,Deedee,Medial,8.002081,8.111961,7.191926,8.824153,L1,UK,England
+2,I saw Cece last week,Cece,Medial,10.061756,10.191358,9.19276,10.881487,L1,UK,England
+2,I saw Kiki last week,Kiki,Medial,12.284386,12.42385,11.31189,13.067838,L1,UK,England
+2,Last week I saw Mimi,Mimi,Final,15.065302,15.28788,13.750545,15.28788,L1,UK,England
+2,Last week I saw Gigi,Gigi,Final,17.237501,17.423453,15.903108,17.423453,L1,UK,England
+2,Last week I saw Fifi,Fifi,Final,19.431198,19.63581,18.087703,19.63581,L1,UK,England
+2,Last week I saw Deedee,Deedee,Final,21.632222,21.856208,20.261398,21.856208,L1,UK,England
+2,Last week I saw Cece,Cece,Final,23.848828,24.043231,22.458996,24.043231,L1,UK,England
+2,Last week I saw Kiki,Kiki,Final,26.011695,26.166016,24.5735,26.166016,L1,UK,England
+3,I saw Mimi last week,Mimi,Medial,1.473564131,1.57755047,0.7270386136,2.377008845,L2,NN,Lebanon
+3,I saw Gigi last week,Gigi,Medial,3.563090364,3.642016428,2.708668378,4.552752755,L2,NN,Lebanon
+3,I saw Fifi last week,Fifi,Medial,5.780047809,5.870097835,4.953980824,6.662185299,L2,NN,Lebanon
+3,I saw Deedee last week,Deedee,Medial,7.817617957,7.915172151,7.049941864,8.620780739,L2,NN,Lebanon
+3,I saw Cece last week,Cece,Medial,9.955815821,10.03300156,9.063584902,10.85914074,L2,NN,Lebanon
+3,I saw Kiki last week,Kiki,Medial,11.97094474,12.03312214,11.15570634,12.81538228,L2,NN,Lebanon
+3,Last week I saw Mimi,Mimi,Final,14.7354214,14.9033031,13.44744701,14.9033031,L2,NN,Lebanon
+3,Last week I saw Gigi,Gigi,Final,16.76956165,16.98829087,15.425672,16.98829087,L2,NN,Lebanon
+3,Last week I saw Fifi,Fifi,Final,18.89489523,19.12937567,17.51822826,19.12937567,L2,NN,Lebanon
+3,Last week I saw Deedee,Deedee,Final,20.94633041,21.16750038,19.62429293,21.16750038,L2,NN,Lebanon
+3,Last week I saw Cece,Cece,Final,23.14248886,23.31702332,21.70587592,23.31702332,L2,NN,Lebanon
+3,Last week I saw Kiki,Kiki,Final,25.11888235,25.2989824,23.86010811,25.2989824,L2,NN,Lebanon
+4,I saw Mimi last week,Mimi,Medial,40.498604,40.610026,39.703291,41.359968,L1,NA,US
+4,I saw Gigi last week,Gigi,Medial,43.31181,43.469946,42.475515,44.238522,L1,NA,US
+4,I saw Fifi last week,Fifi,Medial,46.283013,46.42806,45.450936,47.18238,L1,NA,US
+4,I saw Deedee last week,Deedee,Medial,49.252796,49.421119,48.437078,50.239083,L1,NA,US
+4,I saw Cece last week,Cece,Medial,52.532952,52.691026,51.647958,53.498177,L1,NA,US
+4,I saw Kiki last week,Kiki,Medial,55.473168,55.592066,54.643337,56.370624,L1,NA,US
+4,Last week I saw Mimi,Mimi,Final,59.765501,60.017124,58.442365,60.017124,L1,NA,US
+4,Last week I saw Gigi,Gigi,Final,62.52835,62.734158,61.157172,62.734158,L1,NA,US
+4,Last week I saw Fifi,Fifi,Final,65.167291,65.441636,63.686927,65.441636,L1,NA,US
+4,Last week I saw Deedee,Deedee,Final,67.915042,68.229959,66.538831,68.229959,L1,NA,US
+4,Last week I saw Cece,Cece,Final,70.875598,71.125492,69.390467,71.125492,L1,NA,US
+4,Last week I saw Kiki,Kiki,Final,73.609775,73.856516,72.215906,73.856516,L1,NA,US
